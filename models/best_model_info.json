@@ -1,0 +1,11 @@
+{
+  "best_model": "XGBoost",
+  "metrics": {
+    "model": "XGBoost",
+    "accuracy": 0.8233,
+    "precision": 0.4348,
+    "recall": 0.0971,
+    "f1_score": 0.1587,
+    "roc_auc": 0.7684
+  }
+}
